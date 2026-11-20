@@ -1,0 +1,3 @@
+sources/reference_emu/dist/
+*.pyc
+__pycache__/
